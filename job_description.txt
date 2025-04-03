@@ -1,0 +1,12 @@
+Software Engineer
+Responsibilities:
+- Develop and maintain web applications
+- Collaborate with cross-functional teams
+- Ensure code quality and performance
+
+Required Skills:
+- Python, JavaScript, SQL
+- Experience with Django or Flask
+- Knowledge of RESTful APIs
+- Problem-solving skills
+- Cloud platforms (AWS/GCP)
