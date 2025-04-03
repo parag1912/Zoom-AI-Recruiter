@@ -107,5 +107,5 @@ python main.py
 
 ---
 
-Made with ❤️ by [Your Name / Team].
+Made with ❤️ by Parag Patel.
 
